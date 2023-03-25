@@ -1,7 +1,7 @@
 # 💫 About Me:
 [![](https://visitcount.itsvg.in/api?id=xN3k0x&icon=0&color=0)](https://visitcount.itsvg.in)
-
-📞Contact<br><Discord> WW.#3179<br><br>📃 Personal Information<br><Name> ascii(97,105,110)<br><Ages> random(1,20)<br><Coding Experiences> (0x2+0x2*0xa)-0x12 years<br>
+**📞 Contact**<br>
+Discord: WW.#3179
 
 
 ## 🌐 Socials:
