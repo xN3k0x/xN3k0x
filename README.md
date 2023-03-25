@@ -4,9 +4,9 @@
 Discord: WW.#3179
 Discord Server: [discord.gg/jgZgtGTXcY](https://discord.gg/jgZgtGTXcY)
 
-**📃 Personal Information**
-Name: ascii(97,105,110)
-Ages: random(10,20)
+**📃 Personal Information**<br>
+Name: ascii(97,105,110)<br>
+Ages: random(10,20)<br>
 Coding Experiences: (0x2+0x2*0xa)-0x12 years
 
 # 💻 Tech Stack:
