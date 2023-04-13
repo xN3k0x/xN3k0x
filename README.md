@@ -2,7 +2,7 @@
 ![](https://komarev.com/ghpvc/?username=xN3k0x)<br>
 **📞 Contact**
 - 💬 Discord: WW.#3179<br>
-- 🌍 Discord Server: [discord.gg/jgZgtGTXcY](https://discord.gg/jgZgtGTXcY)
+- 🌍 Discord Server: [discord.gg/znY7k2AgkK](https://discord.gg/znY7k2AgkK)
 
 **📃 Personal Information**
 - 🧑 Name: ascii(97,105,110)<br>
