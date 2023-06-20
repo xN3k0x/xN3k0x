@@ -1,11 +1,11 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=xN3k0x)<br>
 **📞 Contact**
-- 💬 Discord: WW.#3179<br>
+- 💬 Discord: 87.105.110<br>
 - 🌍 Discord Server: [discord.gg/znY7k2AgkK](https://discord.gg/znY7k2AgkK)
 
 **📃 Personal Information**
-- 🧑 Name: ascii(97,105,110)<br>
+- 🧑 Name: ascii(87,105,110)<br>
 - 🌱 Ages: random(10,20)<br>
 - ⚡ Coding Experiences: (0x2+0x2*0xa)-0x12 years
 
