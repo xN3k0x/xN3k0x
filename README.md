@@ -1,7 +1,7 @@
 # 💫 About Me:
 ![](https://komarev.com/ghpvc/?username=xN3k0x)<br>
 **📞 Contact**
-- 💬 Discord: 87.105.110<br>
+- 💬 Discord: un.de.fined<br>
 - 🌍 Discord Server: [discord.gg/znY7k2AgkK](https://discord.gg/znY7k2AgkK)
 
 **📃 Personal Information**
